@@ -1,4 +1,7 @@
 # dogSearch
+
+Watchdog script:
+
 Periodically searches miami-dade animal shelter's websites for specific dogs and notifies via email
 
 I am looking to adopt a dog with specific breed and age requirements. The dogs I am looking for get adopted almost immediately
